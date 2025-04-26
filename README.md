@@ -16,7 +16,6 @@ Perfect for learning about device motion, animations, and a little web magic!
 - **Simple, Lightweight**, and no external libraries needed.
 - **Mobile-Friendly** and works on desktop too (without the shake effect).
 
----
 
 ## 📱 How to Use
 
