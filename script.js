@@ -31,7 +31,7 @@
     
     // Variables to manage shake detection and child mood
     let lastShake = Date.now();
-    const shakeThreshold = 9; // Minimum shake force needed
+    const shakeThreshold = 10; // Minimum shake force needed
     let moodTimeout;
     
     // Listen for device motion events
